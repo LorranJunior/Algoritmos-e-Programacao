@@ -1,4 +1,4 @@
-https://www.beecrowd.com.br/judge/pt/custom-problems/view/1716
+#https://www.beecrowd.com.br/judge/pt/custom-problems/view/1716
 
 SalarioAtual = input()
 NovoSalario = float(input())

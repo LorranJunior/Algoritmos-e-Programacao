@@ -1,4 +1,4 @@
-https://www.beecrowd.com.br/judge/pt/custom-problems/view/1760
+#https://www.beecrowd.com.br/judge/pt/custom-problems/view/1760
 
 
 qtdpessoa = 4

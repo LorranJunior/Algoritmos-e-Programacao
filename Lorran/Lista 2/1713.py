@@ -1,4 +1,4 @@
-https://www.beecrowd.com.br/judge/pt/custom-problems/view/1713
+#https://www.beecrowd.com.br/judge/pt/custom-problems/view/1713
 
 
 A = float (input())

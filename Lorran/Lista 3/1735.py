@@ -1,4 +1,4 @@
-https://www.beecrowd.com.br/judge/pt/custom-problems/view/1735
+#https://www.beecrowd.com.br/judge/pt/custom-problems/view/1735
 
 
 x = int(input()) 

@@ -1,4 +1,4 @@
-https://www.beecrowd.com.br/judge/pt/custom-problems/view/1715
+#https://www.beecrowd.com.br/judge/pt/custom-problems/view/1715
 
 tipocliente = int(input())
 ValorCompra = float(input())

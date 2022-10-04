@@ -1,4 +1,4 @@
-https://www.beecrowd.com.br/judge/pt/custom-problems/view/1761
+#https://www.beecrowd.com.br/judge/pt/custom-problems/view/1761
 
 
 compras = 0
